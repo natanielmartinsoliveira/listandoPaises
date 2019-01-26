@@ -1,0 +1,42 @@
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\WPF MVVM Application.exe
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\WPF MVVM Application.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\Views\Window1.g.cs
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\App.g.cs
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application_MarkupCompile.cache
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application_MarkupCompile.lref
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\Views\Window1.baml
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application.g.resources
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\ListandoPaises.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\ListandoPaises.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application.exe
+c:\users\usuario\documents\visual studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application.pdb
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application.exe
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application.pdb
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\WPF MVVM Application.exe
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\WPF MVVM Application.pdb
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\ListandoPaises.csprojResolveAssemblyReference.cache
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\Views\Window1.g.cs
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\App.g.cs
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application_MarkupCompile.cache
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application_MarkupCompile.lref
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\Views\Window1.baml
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\WPF MVVM Application.g.resources
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\ListandoPaises.Properties.Resources.resources
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\ListandoPaises.csproj.GenerateResource.Cache
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\Toolkit.WPF.dll
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\WPF_AutoCompleteComboBox.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\Toolkit.WPF.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\WPF_AutoCompleteComboBox.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\obj\x86\Debug\ListandoPaises.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Json.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Net.Http.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Json.xml
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Net.Http.xml
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nataniel\Documents\Visual Studio 2015\Projects\ListandoPaises\ListandoPaises\bin\Debug\System.Net.Http.WebRequest.xml
